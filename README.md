@@ -85,6 +85,15 @@ philosophy: "Continuous learning through research, experimentation, and executio
 
 ---
 
+### 🎨 Creative Zone & Hobbies
+
+> [!NOTE]
+> ⚠️ **Disclaimer:** The site linked below is a casual, non-technical creative playground featuring romance anime, night landscape photography, gaming, and interactive mini-games (not intended for professional/work evaluation).
+> 
+> 👉 **[Explore Hobbies & Creative Sanctuary →](https://abdulrahman-site-hobbies.vercel.app/)**
+
+---
+
 <div align="center">
   <sub>Built with ❤️ by <a href="https://github.com/attacker2007">attacker2007</a></sub>
 </div>
