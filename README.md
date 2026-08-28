@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Header Banner" width="100%" />
+  <img src="./assets/night_sky_banner.svg" alt="Header Banner" width="100%" />
 
   <br />
 
